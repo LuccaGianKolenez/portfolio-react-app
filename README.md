@@ -128,7 +128,7 @@ pnpm typecheck
 
 ---
 
-## 🗺️ Rotas
+## Rotas
 - `/` — Home (demonstra `Redux Toolkit` com Counter).
 - `/todos` — Lista de todos (React Query + **API externa**).
 - `/about` — Página informativa.
